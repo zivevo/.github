@@ -16,12 +16,6 @@ We build customized, scalable solutions for:
 ## 🌍 Why We Do It
 We believe in the power of technology to reshape the world. By working with governments, schools, and institutions, we aim to foster a future where tech-driven, efficient systems help serve communities better, faster, and more transparently.
 
-## 🛠️ Technologies We Use
-- **Automation Tools**: Streamlining workflows and administrative processes.
-- **AI & Machine Learning**: Bringing intelligence into public service applications.
-- **Cloud Solutions**: For scalability and global reach.
-- **Web & Mobile Development**: Delivering accessible, user-friendly platforms.
-
 ## 📈 Our Vision
 We envision a world where technology serves as the backbone of public administration, allowing governments and institutions to make faster decisions, increase their productivity, and focus on what really matters—serving their citizens.
 
@@ -33,7 +27,7 @@ ZiV Evo Tech is more than just a tech company; we’re pioneers in the digital t
 ### 📫 Contact Us
 Stay connected! Reach out to us if you're interested in working together or have any inquiries.
 
-- **Website**: [ZiV Evo Tech](#)
-- **Email**: [info@zivevotech.com](mailto:info@zivevotech.com)
+- **Website**: 
+- **Email**: 
 
-Let's build the future of government, together.
+Let's build the future together.
